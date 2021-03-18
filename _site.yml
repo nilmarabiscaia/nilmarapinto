@@ -1,13 +1,11 @@
-name: “Vinícius Francisco Wasques”
+name: “Nilmara de Jesus Biscaia Pinto”
 navbar:
-  title: Vinícius F. Wasques
+  title: Nilmara J. B. Pinto
   left:
-    - text: Ensino
-      href: ensino.html
     - text: Publicações
       href: publicacoes.html
-  #  - text: Alunos
-  #    href: alunos.html
+     - text: Editoração
+      href: editoracao.html
     - text: Contato
       href: contato.html
 output_dir: "."
